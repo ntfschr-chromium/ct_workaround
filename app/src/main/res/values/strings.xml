@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ct_workaround</string>
+    <string name="dialog_message">Your WebView provider is currently out of date. We recommend that you update to the latest version before continuing.</string>
+    <string name="go_to_play_store">Take me to the play store</string>
+    <string name="will_update_manually">I will update my WebView</string>
+    <string name="cancel">No thanks</string>
+</resources>
